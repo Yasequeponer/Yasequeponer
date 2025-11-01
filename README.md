@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Diego Alejandro 👋
 
-Desarrollador en proceso apasionado por la tecnología y el aprendizaje continuo. Siempre en búsqueda de nuevos desafíos donde poder aplicar mis conocimientos y seguir creciendo.
+Soy un desarrollador en proceso apasionado por la tecnología y el aprendizaje continuo. Siempre en búsqueda de nuevos desafíos donde pueda aplicar conocimientos y seguir creciendo.
 
 ## Sobre mí
 

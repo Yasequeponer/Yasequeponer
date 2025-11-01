@@ -1,6 +1,5 @@
 ## Hola, mi nombre es Diego Alejandro 👋
 
-<!--
 
 ## Sobre mí
 
@@ -19,4 +18,3 @@
 - cosasdeclase100@gmail.com
 
 
--->
